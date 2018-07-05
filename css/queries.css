@@ -1106,6 +1106,51 @@
           }
     }
     @media(max-width:480px){
+      .edu-grid {
+        margin-left: 0px;
+      }
+      #eduarr1 {
+        top: 20%;
+      }
+      #eduarr2 {
+        top: 23%;
+      }
+      .skills-grid {
+        left: 16%;
+      }
+      #aboutme {
+        font-size: 25px;
+      }
+      #hero {
+        height: 640px;
+      }
+      .introavatar {
+        width: 75%;
+      }
+      .skills-grid p {
+        padding-right: 40px; 
+      }
+      .skills-grid {
+        margin-bottom: 30px;  
+      }
+      .process-pad {
+        width: 50% !important;
+        margin-left: 25%;
+      }
+      .process-grid img {
+        transform: rotate(90deg);
+        display: inline-block;
+        margin: 0;
+        left: 44%;
+        top: 105%;  
+      }
+      #name_div, #email_div {
+        width: 100%;
+        padding-right: 10px;
+      }
+      #toTop {
+        right: 7%;
+      }
         .animated.bounceInDown {
             margin-top: 45px;
             font-size: 40px;
@@ -1423,9 +1468,6 @@
         .button a {
           font-size: 13px;
         }
-        .process-pad {
-          padding: 0 15px;
-        }
         .process-grid {
           height: 116px;
           padding: 9px 0 0 0;
@@ -1433,9 +1475,7 @@
         .process-grid p {
           font-size: 13px;
           }
-        .process-grid img {
-          left: 107.5%;
-        }
+
         .process-back {
           min-height: 25px;
         }
@@ -1542,51 +1582,6 @@
         }
         div.container {
             padding: 0 5px 0 5px;
-        }
-        .edu-grid {
-          margin-left: 0px;
-        }
-        #eduarr1 {
-          top: 20%;
-        }
-        #eduarr2 {
-          top: 23%;
-        }
-        .skills-grid {
-          left: 16%;
-        }
-        #aboutme {
-          font-size: 25px;
-        }
-        #hero {
-          height: 640px;
-        }
-        .introavatar {
-          width: 75%;
-        }
-        .skills-grid p {
-          padding-right: 0; 
-        }
-        .skills-grid {
-          margin-bottom: 30px;  
-        }
-        .process-pad {
-          width: 50% !important;
-          margin-left: 83px;
-        }
-        .process-grid img {
-          transform: rotate(90deg);
-          display: inline-block;
-          margin: 0;
-          left: 44%;
-          top: 105%;  
-        }
-        #name_div, #email_div {
-          width: 100%;
-          padding-right: 10px;
-        }
-        #toTop {
-          right: 7%;
         }
     }
     @media(max-width:320px){
