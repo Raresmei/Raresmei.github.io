@@ -741,6 +741,12 @@
           top: 23%;
           left: 36%;
         }
+        #eduarr1 {
+          top: 15%;
+        }
+        #eduarr2 {
+          top: 20%;
+        }
         .gallery-section {
           padding: 68px 0 0px 0;
         }
@@ -1428,6 +1434,7 @@
         .edu-grid-info h5 {
           font-size: 13px;
         }
+
         .work-grid h3 {
           font-size: 13px;
         }
